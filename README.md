@@ -1,4 +1,8 @@
-<h1 align="center"> Trabaho de POO - Calculadoras </h1>
+<h1 align="center"> Trabaho de POO - Calculadoras </h1> 
+<p align="center">
+  <img width="300" height="300" src="https://cdn-icons-png.flaticon.com/512/4341/4341087.png">
+</p>
+
 
 # Índice
 * [Índice](#índice)
@@ -22,15 +26,23 @@ Mas para ter acesso às duas ele precisa fazer login com um codenome e uma senha
           
 
 ###  Status do Projeto
-&#128119;&#8205;& #9792;&#65039; Projeto em construção &#128119;&#8205;&#9792;&#65039;
+&#128119;&#8205;&#9792;&#65039; Projeto em construção &#128119;&#8205;&#9792;&#65039;
 
 #  Como Instalar no linux
-- `1º Passo`: Instalar o Javafx
+- `1º Passo`: Instalação do Javafx - Baixe e salve o script de shell JavaFX para o sistema operacional Linux ou OpenSolaris.
+Faça download de versões mais antigas do instalador JavaFX SDK na página de download de versões anteriores .
+Execute o .sharquivo. Por exemplo:
+chmod a+x javafx_sdk-1_2-linux-i586.sh
+./javafx_sdk-1_2-linux-i586.sh
+Aceite os termos da licença.
+O shell script instala o JavaFX SDK no diretório atual.
 - `2º Passo`: Instalação do NetBeans - Existem 2 formas de instalar o NetBeans no Linux: 
    - Terminal Linux: Para instalar o NetBeans via terminal, o primeiro passo é baixar o instalador do aplicativo de seu site da apache NetBeans. Site Apache NetBeans IDE : https://netbeans.apache.org/download/index.html. Após download, devemos conceder permissões ao instalador do NetBeans para execução no Linux, para isso, acessamos a pasta onde o pacote foi baixado e abrimos um terminal e executamos o seguinte comando: chmod +x netbeans*.sh. Com o pacote de instalação com permissão para execução podemos iniciar o processo de instalação digitando no terminal o seguinte comando: ./netbeans*.sh. Com isso, o processo de instalação será iniciado e será apresentada a tela de boas-vindas. Bastando escolher Next, escolher o local de instalação do JDK e para todas as demais telas é só aceitar os valores padrão do processo de instalação. No site escolha a versão desejada (Feature Update ou LTS-Long Term Support) e efetue o download do pacote de instalação, conforme opção desejada. 
 
     - Linux App Store (Para distribuições com este recurso): A forma de instalar o Netbeans IDE é via loja de aplicativos de aplicativos do Linux. Para isso, basta abrir a Linux App Store de sua distribuição e procurar na caixa de pesquisa Apache Netbeans. Ao selecionar o aplicativo, basta clicar no botão Install ou Instalar e efetuar a instalação da IDE. O processo é bem fácil e simples, mas por outro lado não tenho a opção de escolher versão ou customizar a instalação do software como fazemos na instalação via terminal.
 
+- `2º Passo`: Instalação do Eclipse 
+- `3º Passo`: 
 
 
 
@@ -42,6 +54,8 @@ Mas para ter acesso às duas ele precisa fazer login com um codenome e uma senha
 
 #  Como Instalar no Windows
 
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"  width="100" height="100" />  
 # :hammer: Funcionalidades do Projeto
 
 - `Funcionalidade 1`: Estudar.
@@ -50,7 +64,5 @@ Mas para ter acesso às duas ele precisa fazer login com um codenome e uma senha
 
 #  Pessoas Desenvolvedoras do Projeto
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100" height="100" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"  width="100" height="100" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"  width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="100" height="100" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100" height="100" />
-          
           
           
