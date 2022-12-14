@@ -13,7 +13,7 @@
 
 
 
-> :construction: Projeto em construção :construction:
+> &#128119;&#8205;&#9792;&#65039; Projeto em construção &#128119;&#8205;&#9792;&#65039;
 
 
 
