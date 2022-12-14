@@ -1,4 +1,5 @@
-<h1 align="center"> Trabaho de POO </h1>
+#Título e Imagem de capa
+<h1 align="center"> Trabaho de POO - Calculadoras </h1>
 
 # Índice
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
@@ -10,6 +11,9 @@
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Conclusão](#conclusão)
+
+
+# <i class="fa-solid fa-calculator"></i> Descrição do Projeto <i class="fa-solid fa-calculator"></i>
 
 
 
