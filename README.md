@@ -13,8 +13,8 @@
 * [Conclusão](#conclusão)
 
 
-# fa-solid fa-calculator Descrição do Projeto <i class="fa-solid fa-calculator"></i>
-
+# :calculator: Descrição do Projeto
+  
 
 
 > &#128119;&#8205;&#9792;&#65039; Projeto em construção &#128119;&#8205;&#9792;&#65039;
