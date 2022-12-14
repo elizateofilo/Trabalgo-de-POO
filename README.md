@@ -13,7 +13,7 @@
 * [Conclusão](#conclusão)
 
 
-# <i class="fa-solid fa-calculator"></i> Descrição do Projeto <i class="fa-solid fa-calculator"></i>
+# fa-solid fa-calculator Descrição do Projeto <i class="fa-solid fa-calculator"></i>
 
 
 
