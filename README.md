@@ -16,10 +16,6 @@ Mas para ter acesso às duas ele precisa fazer login com um codenome e uma senha
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100" height="100" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"  width="100" height="100" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"  width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100" height="100" />
 - `NetBeans`
 - `Eclipse`
-          
-
-###  Status do Projeto
-&#128119;&#8205;&#9792;&#65039; Projeto em construção &#128119;&#8205;&#9792;&#65039;
 
 #  Como Instalar no linux
 - `1º Passo`: Instalação do Javafx: 
@@ -133,6 +129,3 @@ Mas para ter acesso às duas ele precisa fazer login com um codenome e uma senha
 <h1 align="center">
   <a href="https://docusaurus.io"><img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus"></a>
 </h1>
-
-          
-
