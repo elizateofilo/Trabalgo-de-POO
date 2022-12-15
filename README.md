@@ -13,13 +13,14 @@
 * [Como Instalar no linux](#como-instalar-no-linux)
 * [Como Instalar no Windows](#como-instalar-no-windows)
 * [Funcionalidades do Projeto](#funcionalidades-do-projeto)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
+* [Colaboradores](#colaboradores)
 
 #  Descrição do Projeto
 *O Trabalho baseia-se em um projeto onde o usuário pode ter acesso a dois tipos de calculadora: a Tradicional e a de IMC.
 Mas para ter acesso às duas ele precisa fazer login com um codenome e uma senha.*
      
-###  Tecnológias Utilizadas
+### 💻 Tecnológias Utilizadas
        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100" height="100" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"  width="100" height="100" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"  width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100" height="100" />
 - `NetBeans`
@@ -55,6 +56,7 @@ Mas para ter acesso às duas ele precisa fazer login com um codenome e uma senha
    - https://www.youtube.com/watch?v=qQlD9xnLEuc
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="100" height="100" /> 
+ 
 
 #  Como Instalar no Windows
 - `1º Passo`: Instalação do Javafx e configurar no NetBeans:
@@ -78,14 +80,15 @@ Mas para ter acesso às duas ele precisa fazer login com um codenome e uma senha
    
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"  width="100" height="100" />  
  
-# :hammer: Funcionalidades do Projeto
+# 🔨 Funcionalidades do Projeto
 
 - `Funcionalidade 1`: Estudar.
 - `Funcionalidade 2`: Saber mais sobre sua saúde.
 - `Funcionalidade 3`: Adquerir conhecimento.
 
+ 
 #  Pessoas Desenvolvedoras do Projeto
-<h3>Sobre nós</h3>
+<h3>Nossa Equipe</h3>
   A equipe Belenus é formada por estudantes do 3° período do Curso Técnico Integrado em Informática do Instituto Federal de Educação, Ciência e tecnoligio do Ceará - IFCE Campus Fortaleza. <h4>
 
   <details><summary><b>Desenvolvedoras</b></summary>
@@ -105,6 +108,26 @@ Mas para ter acesso às duas ele precisa fazer login com um codenome e uma senha
  <br>sophia.mello05@aluno.ifce.edu.br</br>
  </p>
   </details>
+  
+ 
+#  Colaboradores
 
+ <details><summary><b>Desenvolvedoras</b></summary>
+ <p> <br>Ana Carolina Gonzaga da Silva</br>
+ <br>Atila Rufo Araujo Mendes da Silva<br>
+ <br>Giovanna Gomes Franco</br>
+ <br>Layssa Rachel Santos de Oliveira</br>
+ 
+ </p>
+  </details>
+  
+  <details><summary><b>Contato</b></summary>
+ <p>
+ <br>ana.silva07@aluno.ifce.edu.br</br>
+ <br>atila.rufo05@aluno.ifce.edu.br<br>
+ <br>giovanna.gomes62@aluno.ifce.edu.br</br>
+ <br>rachel.layssa08@aluno.ifce.edu.br</br>
+ </p>
+  </details>
           
           
