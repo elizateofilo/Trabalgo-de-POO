@@ -109,10 +109,19 @@ Mas para ter acesso às duas ele precisa fazer login com um codenome e uma senha
  </p>
   </details>
   
+   <details><summary><b>GitHub</b></summary>
+ <p>
+ <br>@elizateofilo</br>
+ <br><br>
+ <br></br>
+ <br></br>
+ </p>
+  </details>
+  
  
 #  Colaboradores
 
- <details><summary><b>Desenvolvedoras</b></summary>
+ <details><summary><b>Desenvolvedores</b></summary>
  <p> <br>Ana Carolina Gonzaga da Silva</br>
  <br>Atila Rufo Araujo Mendes da Silva<br>
  <br>Giovanna Gomes Franco</br>
@@ -129,5 +138,15 @@ Mas para ter acesso às duas ele precisa fazer login com um codenome e uma senha
  <br>rachel.layssa08@aluno.ifce.edu.br</br>
  </p>
   </details>
+  
+  <details><summary><b>GitHub</b></summary>
+ <p>
+ <br></br>
+ <br><br>
+ <br></br>
+ <br></br>
+ </p>
+  </details>
+  
           
           
