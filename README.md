@@ -4,11 +4,14 @@
   <img width="300" height="300" src="https://cdn-icons-png.flaticon.com/512/4341/4341087.png">
 </p>
 
-#  Descrição do Projeto
+#  Descrição do Projeto 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 *O Trabalho baseia-se em um projeto onde o usuário pode ter acesso a dois tipos de calculadora: a Tradicional e a de IMC.
 Mas para ter acesso às duas ele precisa fazer login com um codenome e uma senha.*
-     
+
 ### 💻 Tecnológias Utilizadas
+
        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100" height="100" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"  width="100" height="100" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"  width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100" height="100" />
 - `NetBeans`
@@ -77,7 +80,7 @@ Mas para ter acesso às duas ele precisa fazer login com um codenome e uma senha
  
 #  Pessoas Desenvolvedoras do Projeto
 <h3>Nossa Equipe</h3>
-  A equipe Belenus é formada por estudantes do 3° período do Curso Técnico Integrado em Informática do Instituto Federal de Educação, Ciência e tecnoligio do Ceará - IFCE Campus Fortaleza. <h4>
+  *A equipe Belenus é formada por estudantes do 3° período do Curso Técnico Integrado em Informática do Instituto Federal de Educação, Ciência e tecnoligio do Ceará - IFCE Campus Fortaleza.* <h4>
 
   <details><summary><b>Desenvolvedoras</b></summary>
  <p> <br>Larissa dos Santos Holanda</br>
