@@ -4,18 +4,6 @@
   <img width="300" height="300" src="https://cdn-icons-png.flaticon.com/512/4341/4341087.png">
 </p>
 
-
-# Índice
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Tecnológias Utilizadas](#tecnólogias-utilizadas)
-* [Status do Projeto](#status-do-Projeto)
-* [Como Instalar no linux](#como-instalar-no-linux)
-* [Como Instalar no Windows](#como-instalar-no-windows)
-* [Funcionalidades do Projeto](#funcionalidades-do-projeto)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
-* [Colaboradores](#colaboradores)
-
 #  Descrição do Projeto
 *O Trabalho baseia-se em um projeto onde o usuário pode ter acesso a dois tipos de calculadora: a Tradicional e a de IMC.
 Mas para ter acesso às duas ele precisa fazer login com um codenome e uma senha.*
