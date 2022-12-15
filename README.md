@@ -80,7 +80,7 @@ Mas para ter acesso às duas ele precisa fazer login com um codenome e uma senha
  
 #  Pessoas Desenvolvedoras do Projeto
 <h3>Nossa Equipe</h3>
-  *A equipe Belenus é formada por estudantes do 3° período do Curso Técnico Integrado em Informática do Instituto Federal de Educação, Ciência e tecnoligio do Ceará - IFCE Campus Fortaleza.* <h4>
+  A equipe Belenus é formada por estudantes do 3° período do Curso Técnico Integrado em Informática do Instituto Federal de Educação, Ciência e tecnoligio do Ceará - IFCE Campus Fortaleza. <h4>
 
   <details><summary><b>Desenvolvedoras</b></summary>
  <p> <br>Larissa dos Santos Holanda</br>
@@ -130,6 +130,9 @@ Mas para ter acesso às duas ele precisa fazer login com um codenome e uma senha
  </p>
   </details>
   
-  
+<h1 align="center">
+  <a href="https://docusaurus.io"><img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus"></a>
+</h1>
+
           
 
