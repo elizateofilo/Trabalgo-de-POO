@@ -1,3 +1,4 @@
+<h1> Trabalho de Poo - 3° Período do Curso Integrado em Informática do IFCE / 2° Ano do Ensino Médio</h1> 
 <h1 align="center"> Trabaho de POO - Calculadoras </h1> 
 <h1 align="center"> Equipe BELENUS </h1> 
 <p align="center">
@@ -98,10 +99,10 @@ Mas para ter acesso às duas ele precisa fazer login com um codenome e uma senha
  
    <details><summary><b>GitHub</b></summary>
  <p>
- <br>@elizateofilo</br>
- <br><br>
- <br></br>
- <br></br>
+ <br>@holabdalarissa</br>
+ <br>@elizateofilo<br>
+ <br>@EmilyCosta1420</br>
+ <br>@SophiaMel</br>
  </p>
   </details>
  
@@ -123,6 +124,15 @@ Mas para ter acesso às duas ele precisa fazer login com um codenome e uma senha
  <br>atila.rufo05@aluno.ifce.edu.br<br>
  <br>giovanna.gomes62@aluno.ifce.edu.br</br>
  <br>rachel.layssa08@aluno.ifce.edu.br</br>
+ </p>
+  </details>
+
+   <details><summary><b>GitHub</b></summary>
+ <p>
+ <br>@Sasury-Ryash</br>
+ <br><br>
+ <br>@giovanna34</br>
+ <br>@layssa26rachel</br>
  </p>
   </details>
   
