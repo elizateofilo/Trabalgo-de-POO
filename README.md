@@ -1,4 +1,4 @@
-<h1> Trabalho de Poo - 3° Período do Curso Integrado em Informática do IFCE / 2° Ano do Ensino Médio</h1> 
+###### Trabalho de Poo - 3° Período do Curso Integrado em Informática do IFCE / 2° Ano do Ensino Médio.
 <h1 align="center"> Trabaho de POO - Calculadoras </h1> 
 <h1 align="center"> Equipe BELENUS </h1> 
 <p align="center">
@@ -130,7 +130,6 @@ Mas para ter acesso às duas ele precisa fazer login com um codenome e uma senha
    <details><summary><b>GitHub</b></summary>
  <p>
  <br>@Sasury-Ryash</br>
- <br><br>
  <br>@giovanna34</br>
  <br>@layssa26rachel</br>
  </p>
